@@ -1,0 +1,114 @@
+body {
+	background:gray;
+	color:#fff;
+	font-family:'Poppins', 'Open Sans', sans-serif;
+	font-size:14px;
+}
+
+#startQuiz {
+	width:60%;
+	background:darkgray;
+	margin:20px auto;
+	overflow: auto;
+	padding:25px;
+	margin-top: 20%;
+}
+
+#welcome {
+	color: darkblue;
+}
+
+.redMark {
+	color: red;
+}
+
+#container {
+	width:60%;
+	background:darkgray;
+	margin:20px auto;
+	overflow: auto;
+	padding:25px;
+}
+
+#initial {
+	width:60%;
+	background:#0e0382;
+	margin:20px auto;
+	overflow: auto;
+	padding:25px;
+}
+header{
+	text-align:center;
+	border-bottom:#fff dashed 1px;
+}
+
+header h1{
+	margin:0;
+	padding:0;
+	
+}
+
+#results {
+	color: red;
+}
+#results2 {
+	color: red;
+	background:yellow;
+}
+#results3 {
+	color: red;
+	background:yellow;
+}
+
+.hintdivstyle {
+
+	font-weight: bold;
+	color: #a0d7e8;
+
+}
+
+#q1hint {
+    width: 450px;
+    height: 30px;
+    background: darkgray;
+	font-weight: bold;
+	color: #a0d7e8;
+    display: none;
+}
+
+#q2hint {
+    width: 450px;
+    height: 30px;
+    background: darkgray;
+	font-weight: bold;
+	color: #a0d7e8;
+    display: none;
+}
+#q3hint {
+    width: 450px;
+    height: 30px;
+    background: darkgray;
+	font-weight: bold;
+	color: #a0d7e8;
+    display: none;
+}
+#q4hint {
+    width: 450px;
+    height: 30px;
+    background: darkgray;
+	font-weight: bold;
+	color: #a0d7e8;
+    display: none;
+}
+#q5hint {
+    width: 450px;
+    height: 30px;
+    background: darkgray;
+	font-weight: bold;
+	color: #a0d7e8;
+    display: none;
+}
+.welcomeclass {
+    font-weight: bold;
+	color: #a0d7e8;
+}
